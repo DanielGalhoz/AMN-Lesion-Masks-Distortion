@@ -1,5 +1,10 @@
 # Deep-Capillary-Plexus-Features-in-AMN
 
 
+
+Masks must have the following name format: "<Name>_<Eye(OS or OD)>_MASK.tif" or "<Name>_<Eye(OS or OD)>_mask.tif" 
+
+
 ## Example:
-![Input]([https://github.com/[username]/[reponame]/blob/[branch]](https://github.com/DanielGalhoz/Deep-Capillary-Plexus-Features-in-AMN/tree/main/Images)/Input.jpg) -> ![Output]([https://github.com/[username]/[reponame]/blob/[branch]](https://github.com/DanielGalhoz/Deep-Capillary-Plexus-Features-in-AMN/tree/main/Images)/Output.jpg)
+<img align="left" src="Images/Input.jpg" height="450" width="450">  <img align="right" src="Images/Output.jpg" height="450" width="450">
+
