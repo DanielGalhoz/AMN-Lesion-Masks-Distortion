@@ -6,5 +6,5 @@ Masks must have the following name format: "<Name>_<Eye(OS or OD)>_MASK.tif" or 
 
 
 ## Example:
-<img align="left" src="Images/Input.jpg" height="400" width="400">  <img align="right" src="Images/Output.jpg" height="400" width="400">
+<img align="left" src="Images/Input.jpg" height="350" width="350">  <img align="right" src="Images/Output.jpg" height="350" width="350">
 
