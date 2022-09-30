@@ -1,6 +1,6 @@
 # Deep-Capillary-Plexus-Features-in-AMN
 
-## Disp_Mask.m
+### Disp_Mask.m
 
 Reads AMN lesion masks, calculates centroid and performes the displacement for each mask boarder and centroids, to correct for HFL length and orientation. 
 HFL length and orientation were calculated along the horizontal meridian for each point of the segmented region, according to GCL lateral displacement coefficients in [1]. Displacement values for any other meridians was obtained by a linear interpolation between values of the horizontal meridian within the same distance from the foveal center in a polar coordinate system. 
