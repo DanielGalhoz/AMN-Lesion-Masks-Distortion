@@ -7,7 +7,7 @@ The centroid is calculated by the arithmetic mean of all mask points.
 HFL length and orientation were calculated along the horizontal meridian for each point of the segmented region, according to GCL lateral displacement coefficients in [1]. Displacement values for any other meridians was obtained by a linear interpolation between values of the horizontal meridian within the same distance from the foveal center in a polar coordinate system. 
 
 Masks must have the following name format: "<Name>_<Eye(OS or OD)>_MASK.tif" or "<Name>_<Eye(OS or OD)>_mask.tif" 
-Hard Coded for images with size 1536 with resolution of 0.0053086597472429276 or size 768 with resolution of 0.01110921148210764
+Hard Coded for images with size 1536 and resolution of 0.0053086597472429276 or size 768 and resolution of 0.01110921148210764
   
 Disclamer: Script can be further optimized both in time and precision!
   
