@@ -1,6 +1,6 @@
 step = 0.0005;
 
-all_files_st = dir('last_Masks');
+all_files_st = dir('Masks');
 all_files = {all_files_st.name};
 all_files([all_files_st.isdir]) = [];
 
