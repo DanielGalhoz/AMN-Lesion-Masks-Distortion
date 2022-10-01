@@ -16,6 +16,7 @@ Disclamer: Script can be further optimized both in time and precision!
 # Images:
 (Upper Left): Example Input; (Upper Right): Example Output; (Lower Left): 3D Projection of the lateral displacement of HFL in a cartesian coordinate system;
 (Lower Right): 3D Projection of the Lateral displacement of HFL in a polar coordinate system
+
 <img align="left" src="Images/Input.jpg" height="350" width="350">  <img align="right" src="Images/Output.jpg" height="350" width="350">
 
 <img align="left" src="Images/3D_Projection.jpg" height="250" width="350">  <img align="right" src="Images/Polar_Representation_3D.jpg" height="250" width="350">
