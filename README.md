@@ -3,7 +3,6 @@
 ### Disp_Mask.m
 
 Reads AMN lesion masks, calculates centroid and performes the displacement for each mask boarder and centroids, to correct for HFL length and orientation. 
-The centroid is calculated by the arithmetic mean of all mask points. 
 HFL length and orientation were calculated along the horizontal meridian for each point of the segmented region, according to GCL lateral displacement coefficients in [1]. Displacement values for any other meridians was obtained by a linear interpolation between values of the horizontal meridian within the same distance from the foveal center in a polar coordinate system. 
 
 Masks must have the following name format: "<Name>_<Eye(OS or OD)>_MASK.tif" or "<Name>_<Eye(OS or OD)>_mask.tif" 
