@@ -1,4 +1,4 @@
-# Deep-Capillary-Plexus-Features-in-AMN
+# AMN-Lesion-Masks-Distortion 
 
 ### Disp_Mask.m
 
